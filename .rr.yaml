@@ -115,7 +115,7 @@ http:
   # Host and port to listen on (eg.: `127.0.0.1:8080`).
   #
   # This option is required.
-  address: 127.0.0.1:8080
+  address: 0.0.0.0:8080
 
   # override http error code for the internal RR errors
   #
